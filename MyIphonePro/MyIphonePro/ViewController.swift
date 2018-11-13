@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         NSLog("jessehou view load")
         print("ok")
         self.showLabel.text = "侯帅最喜欢谁?"
+        NSLog("TEST")
         
     }
     
