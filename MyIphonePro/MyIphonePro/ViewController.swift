@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         print("ok")
         self.showLabel.text = "侯帅最喜欢谁?"
         NSLog("TEST")
-        
+        NSLog("FromApp");
     }
     
     @IBAction func clickButton(_ sender: Any) {
